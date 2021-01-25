@@ -1,9 +1,9 @@
 {
     "Evenimente": [{
             "Denumire": "Ziua de nastere a mamei",
-            "Data": "2021-01-03",
+            "Data": "2021-01-12",
             "Alarma": -1,
-            "Ora": "22:40",
+            "Ora": "09:38",
             "Descriere": "Sa sun sa o felicit"
         },
         {
@@ -15,9 +15,9 @@
         },
         {
             "Denumire": "Sedinta la serviciu",
-            "Data": "2021-01-03",
+            "Data": "2021-01-12",
             "Alarma": -1,
-            "Ora": "00:00",
+            "Ora": "01:16",
             "Descriere": "Sa iau carnetul sa fac notite"
         },
         {
