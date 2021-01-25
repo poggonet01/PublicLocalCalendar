@@ -1,0 +1,31 @@
+{
+    "Evenimente": [{
+            "Denumire": "Ziua de nastere a mamei",
+            "Data": "2021-01-03",
+            "Alarma": -1,
+            "Ora": "22:40",
+            "Descriere": "Sa sun sa o felicit"
+        },
+        {
+            "Denumire": "Sedinta la scoala",
+            "Data": "2021-01-03",
+            "Alarma": -1,
+            "Ora": "21:22",
+            "Descriere": "Sa merg la scoala sa aflu ce se intampla"
+        },
+        {
+            "Denumire": "Sedinta la serviciu",
+            "Data": "2021-01-03",
+            "Alarma": -1,
+            "Ora": "00:00",
+            "Descriere": "Sa iau carnetul sa fac notite"
+        },
+        {
+            "Denumire": "Excursie la muzeu",
+            "Data": "2021-01-03",
+            "Alarma": -1,
+            "Ora": "00:00",
+            "Descriere": "Sa imi cumpar bilet"
+        }
+    ]
+}
